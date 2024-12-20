@@ -17,8 +17,6 @@
 <h3 align="left">My Networks :</h3>
 <p align="left">
 <a href="dsc.bio/blushander" target="blank"><img align="center" src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="p4co3" height="60" width="54" /></a>
-<a href="twitter.com/blushander" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/300px-Twitter_Bird.svg.png" alt="p4co3" height="45" width="54" /></a>
-<a href="twitch.tv/blushander_" target="blank"><img align="center" src="https://assets.help.twitch.tv/Glitch_Purple_RGB.png" alt="p4co3" height="55" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
