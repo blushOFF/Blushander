@@ -15,7 +15,7 @@ Actuellement en plein apprentissage du **C#** et du **C++**, je navigue entre mo
 
 ## 🔗 Me retrouver ailleurs
 
-- [Mon LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shakil-bouzid-887192243/)) *(n'hésite pas à me faire un coucou !)*
+- [Mon LinkedIn]([(https://www.linkedin.com/in/shakil-bouzid-887192243/)]) *(n'hésite pas à me faire un coucou !)*
 
 ---
 
